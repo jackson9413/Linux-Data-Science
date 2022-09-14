@@ -35,6 +35,7 @@ https://wiki.ubuntu.com/FocalFossa/ReleaseNotes?_ga=2.212361492.1663911526.16466
 ## install postgres
 * https://www.postgresql.org/download/linux/ubuntu/
 * https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart
+* https://www.cherryservers.com/blog/how-to-install-and-setup-postgresql-server-on-ubuntu-20-04
 <br>
 
 # Other Applications
