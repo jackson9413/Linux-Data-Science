@@ -28,6 +28,7 @@ https://wiki.ubuntu.com/FocalFossa/ReleaseNotes?_ga=2.212361492.1663911526.16466
 * Official website to download the file https://www.centos.org/download/  
 * How to install refer to:
   - https://readlearncode.com/centos/how-to-create-a-centos-7-virtual-machine-in-vmware-workstation-15/
+  - Encounter the error "Error: Cannot find a valid baseurl for repo" https://unix.stackexchange.com/questions/22924/how-can-i-fix-cannot-find-a-valid-baseurl-for-repo-errors-on-centos
 
 # Database
 <br>
